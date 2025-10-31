@@ -39,6 +39,9 @@ h1 {
     text-align: left;
 }
 
-img.about {border: 5px solid #000000; float: left; margin-right: 15px; margin: 5px;}
+img.about {border: 5px solid #000000; margin-right: 5px; margin: 0px;}
 
 p{text-align: left;}
+
+
+.text-content{margin-left: 10px;}
