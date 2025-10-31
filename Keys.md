@@ -3,7 +3,7 @@ layout: layout.liquid
 title: Keys
 ---
 
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+<img class="about" alt="pine" src="/images/keys.png" width="400" />
 
 # What it is
 My keys. I also use it everyday.

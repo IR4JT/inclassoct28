@@ -3,7 +3,7 @@ layout: layout.liquid
 title: iPhone
 ---
 
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+<img class="about" alt="iPhone" src="/images/iphone.png" width="400" />
 
 # What it is
 This is my iPhone. I use it everyday.
