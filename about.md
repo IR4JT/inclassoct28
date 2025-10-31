@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: Keys
+title: about
 ---
 
 # About the 11ty **Boilerplate**

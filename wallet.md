@@ -1,5 +1,5 @@
 ---
-layout: layout.liqud
+layout: layout.liquid
 title: Wallet
 ---
 
