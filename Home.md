@@ -2,7 +2,7 @@
 layout: layout.liquid
 title: Home
 ---
-
+<!-- I made this file before I changed the index.liquid to index.md I just copy past this code to index.md I could delete this but i'll keep so I know my mistakes-->
 <img class="about" alt="keys" src="/images/keys.png" width="400" />
 
 Three things that I won't leave home without.
